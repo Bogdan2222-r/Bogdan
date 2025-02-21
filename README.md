@@ -9,3 +9,5 @@ node server.js
 then goto this URL
 
 http://localhost:3000/
+
+https://fabulous-longma-895bca.netlify.app/
